@@ -1,4 +1,4 @@
-# GLaDOS签到
+# 怎么说 看运气签到
 
 
 
@@ -15,13 +15,12 @@
 
 
 # glados 注册
-  [注册链接](https://github.com/glados-network/GLaDOS/)   
+  [注册链接：https://glados.rocks/](https://glados.rocks/)   
   注：先复制下面激活码，注册后送3天，包月（10g），如果有教育邮箱可以使用教育plan（360天）（50g）  
       （若是普通邮箱注册，可更改为.edu邮箱，点下面的 for education 进行申请）  
   填写激活码：  **LMKGQ-4DJ97-XDQFX-VYUY4** 获得3天  
   
   我相信你们人手一堆教育邮箱，这个网站风控还行 
-  申请的连接就在最底下，这里直接贴上来[申请链接](http://glados.rocks/console/education)
 ![](http://tu.yaohuo.me/imgs/2020/06/ed0e944eec323a16.png)
 
 # Github Actions说明
@@ -42,7 +41,7 @@
 ![](http://tu.yaohuo.me/imgs/2020/06/34ca160c972b9927.png)
 
 ## 四、查看运行结果
-Actions > glados-checkin > build  
+Actions > Cloud189Checkin > build  
 能看到如下图所示，表示成功，或者看你微信通知  
 ![](http://tu.yaohuo.me/imgs/2020/06/289432b53bded61c.png)  
   
